@@ -1,0 +1,4 @@
+- git init repo-two
+- cd repo-two
+- git remote add origin git@github.com:yangs003/repo-two.git
+- git remote -v
